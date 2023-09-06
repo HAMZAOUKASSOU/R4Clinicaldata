@@ -31,4 +31,4 @@ View(df)
 id <- c("1","2","3")
 
 df2 <- cbind(id,df)
-
+df2
